@@ -1,6 +1,4 @@
-<!-- -->
-https://img.shields.io/badge/ORCID-0000--0002--3929--788X-green?style=plastic&logo=orcid&url=https://orcid.org/0000-0002-3929-788X
-<!-- -->
+![orcid](https://img.shields.io/badge/ORCID-0000--0002--3929--788X-green?style=plastic&logo=orcid&url=https://orcid.org/0000-0002-3929-788X)
 
 # VTT_to_TXT 
 This script converts all `.vtt` files in the same directory into `.vtt.txt` files. These `.vtt.txt` files can be converted into a [Praat](https://github.com/praat) [1] TextGrid using Francesco Cangemi's TXT to TextGrid `.praat` Script. 
